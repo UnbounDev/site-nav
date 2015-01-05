@@ -1,0 +1,19 @@
+{
+  "name": "site-nav",
+  "version": "0.0.1",
+  "description": "UniNav used by both blog.unboundev.com and unboundev.com ",
+  "main": " ",
+  "scripts": {
+    "test": "node tests/gen_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UnbounDev/site-nav.git"
+  },
+  "author": "austin brown <austin@unboundev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnbounDev/site-nav/issues"
+  },
+  "homepage": "https://github.com/UnbounDev/site-nav"
+}
